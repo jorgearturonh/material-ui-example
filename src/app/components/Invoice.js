@@ -58,7 +58,7 @@ class Invoice extends Component {
                   <Typography className={classes.invoiceId}   align="right" variant="overline"> #89 289 </Typography>
                 </Grid>                  
             </Grid>
-          <hr style={{marginTop:'60px'}} className="dash" />
+          <hr style={{marginTop:'100px'}} className="dash" />
     </div>  
     )
     const Content = () => (
@@ -100,7 +100,7 @@ class Invoice extends Component {
     )
 
     const Action = () => (
-    <Grid container justify="flex-end" style={{paddingTop:'10px',paddingBottom:'10px'}}>
+    <Grid container justify="flex-end" style={{paddingTop:'10px',paddingBottom:'20px'}}>
         <Button className={classes.gray} style={{fontWeight:'bold'}}> Later</Button>
         <Button color="primary"  style={{fontWeight:'bold'}}>  Pay Now</Button>
     </Grid>
