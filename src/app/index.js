@@ -13,7 +13,7 @@ import reducer from './reducers/';
 const theme = createMuiTheme({
     palette: {
         primary: { main: '#F48A8B' },
-        secondary:{ main: '#375169'},
+        secondary:{ main: '#184873'},
         lightgray:{ main:'red'}
     },
     breakpoints: {
