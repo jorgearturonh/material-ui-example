@@ -36,7 +36,7 @@ ReactRouter
 
 ### Resultado
 
-![Invoice Frontend](https://i.imgur.com/snusdRS.png)
+![Invoice Frontend](https://i.imgur.com/2KGql8D.png)
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). 
