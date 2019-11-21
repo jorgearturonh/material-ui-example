@@ -3,6 +3,11 @@
 
 Implementacion de Ventana de Pagos, sacado desde https://dribbble.com/shots/2530235-Invoice
 
+La aplicacion es servida en
+```
+http://localhost:3000
+```
+
 Para Ejecutar Pull Proyecto desde Github y escribir en la terminal
 
 ```
